@@ -15,7 +15,7 @@ Kelas : SE03A
 
 # # Penjelasan
 
-**-> judul "Data Mahasiswa**
+**-> judul "Data Mahasiswa"**
 
 ![image](https://user-images.githubusercontent.com/58683476/116975577-133cab80-acea-11eb-95d7-925f85aba2ac.png)
 
